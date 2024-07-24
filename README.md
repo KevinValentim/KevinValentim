@@ -6,7 +6,7 @@
 
 👋 I'm Kevin, a passionate software developer from Brazil.
 
-- 🌎 **Location**: Brazil
+- 🌎 **Location**: Brazil, Ceará
 - 💻 **Currently Studying**: React Native, Arduino
 - 🚀 **Interests**: Programming, learning new technologies
 - ❤️ **Passion**: I love programming
